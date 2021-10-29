@@ -22,3 +22,5 @@ Contract to interact with:
 - `Archievement.sol` -- An ERC721 contract with all the general purpose archievement management system
 - `utils/FTMGame.sol` -- A crypto Game Smart contract that showcase how to leverage the Achievement system to increase user engagement and longevity
 - `utils/Greeting.sol` -- A smart contract that interact with the Achievement system and the FTMGame unlocking functionalities only if the user's owns a specific achievement awarded by the FTMGame
+
+## POC created thanks to [scaffold-eth](scaffoldeth.io)
